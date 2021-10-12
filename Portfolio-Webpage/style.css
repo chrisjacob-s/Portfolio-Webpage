@@ -1,0 +1,53 @@
+body {
+  background: #00CED1
+}
+
+/* Header */
+
+header {
+  background: #4682B4;
+  margin: 0px;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  font-family: "Gill Sans", sans-serif;
+}
+
+header p {
+  font-size: 20px;
+}
+
+/* Main */
+
+main {
+  margin: 0px;
+  padding: 25px 250px;
+}
+
+.intro {
+  text-align: center;
+}
+
+.profile {
+  height: 200px;
+}
+
+/* Footer */
+
+footer {
+  text-align: center;
+  background: #4682B4;
+  padding: 10px;
+}
+
+footer section {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+a:hover {
+  color:#00CED1;
+}
