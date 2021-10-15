@@ -1,6 +1,9 @@
+html {
+  font-family: system-ui;
+}
+
 body {
   background: #00CED1;
-  font-family: system-ui;
 }
 
 /* Header */
